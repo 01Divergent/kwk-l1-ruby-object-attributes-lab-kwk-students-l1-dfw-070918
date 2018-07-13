@@ -3,7 +3,7 @@ class Dog
   # attr_reader :breed, :name
   # attr_writer :name
    def name 
-    
+    @name
   end
   def name=(name)
     @name = name
