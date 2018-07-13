@@ -6,6 +6,7 @@ class Dog
     @name = name
     @breed = breed
   end
+  def 
 end
 # vlad = Dog.new("Bowie", "Labrodoodle")
 # puts vlad.name
