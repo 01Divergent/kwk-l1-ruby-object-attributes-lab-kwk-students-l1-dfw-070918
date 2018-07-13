@@ -20,4 +20,4 @@ class Dog
   # end
 end
 vlad = Dog.new("Bowie", "Labrodoodle")
-vlad.name
+puts vlad.name
