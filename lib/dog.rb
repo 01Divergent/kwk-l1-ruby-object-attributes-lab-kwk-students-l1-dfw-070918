@@ -18,9 +18,4 @@ class Dog
   #   @age = age
   # end
 end
-vlad = Dog.new("Bowie", "Labrodoodle", "Almost 3", "cow spotted", "yes")
-sara = Dog.new("Cooper", "Aussie", "7", "Black", "yes")
-puts vlad.age = "3"
-puts vlad.name
-puts sara.trained
-puts sara.trained = "No"
+vlad = Dog.new("Bowie", "Labrodoodle")
