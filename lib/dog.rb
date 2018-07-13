@@ -15,6 +15,3 @@ class Dog
     @breed
   end
 end
-# vlad = Dog.new("Bowie", "Labrodoodle")
-# puts vlad.name
-# puts vlad.name = "Bowie"
